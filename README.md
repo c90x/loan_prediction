@@ -1,5 +1,7 @@
 # Loan Prediction
 
+#### [Open in Colab](https://colab.research.google.com/github/c90x/loan_prediction/blob/main/)
+
 #### [Lab Notebook](loan_lab.ipynb)
 
 ---
