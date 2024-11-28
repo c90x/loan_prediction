@@ -1,6 +1,6 @@
 # Loan Predication
 
-##### [Lab Notebook](loan_lab.ipynb)
+#### [Lab Notebook](loan_lab.ipynb)
 
 ---
 
