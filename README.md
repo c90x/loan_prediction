@@ -4,6 +4,8 @@
 
 #### [Lab Notebook](loan_lab.ipynb)
 
+#### [Model Notebook](loan_model.ipynb)
+
 ---
 
 This project uses the following dataset: https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset/data
