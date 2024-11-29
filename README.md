@@ -15,3 +15,11 @@ This project uses the following dataset: https://www.kaggle.com/datasets/ranadee
 The goal is to predict wheter a loan will good (paid) or bad (unpaid or late).
 
 Target dependant variable: `loan_status`
+
+## Running
+ 
+Required cli tool: [uv](https://github.com/astral-sh/uv)
+
+```bash
+uv sync
+```
