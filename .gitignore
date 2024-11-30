@@ -1,5 +1,11 @@
+# vscode
+.vscode/
+
 # Virtual environment
 .venv/
 
 # uv
 uv.lock
+
+# Ruff
+.ruff_cache/
