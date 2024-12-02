@@ -2,9 +2,9 @@
 
 <a href="https://colab.research.google.com/github/c90x/loan_prediction/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-#### [Lab Notebook](loan_lab.ipynb)
+#### [Notebook](loan.ipynb)
 
-#### [Model Notebook](loan_model.ipynb)
+#### [Optimized Notebook](loan_optimized.ipynb)
 
 ---
 
